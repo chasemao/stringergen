@@ -2,7 +2,7 @@
 
 stringergen is a command-line tool that generates `String` methods for structs in Go source files. It supports two modes of operation: **source mode** and **recursive mode**.
 
-Explore the motivations and design choices behind StringerGen in my blog post [here](https://chasemao.com/article/Exploring-Go-:-Stringer-Usage).
+Explore the motivations and design choices behind StringerGen in my blog post [here](https://chasemao.com/article/exploring-go-stringer-usage/).
 
 ## Installation
 
